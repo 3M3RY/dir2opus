@@ -20,10 +20,11 @@
 #
 
 '''
-dir2opus converts mp3, m4a, and wav files to the free open source Opus format. Opus files are
-about 20-25% smaller than mp3s with the same relative sound quality. Your mileage may vary.
+dir2opus converts mp3, m4a, m4b, wavpack, ape, ogg/vorbis, and wav files to the free open source Opus format.
+Opus files are about 20-25% smaller than mp3s with the same relative sound quality. 
+Your mileage may vary.
 
-Keep in mind that converting from mp3 or m4a to opus is a conversion between two lossy formats.
+Keep in mind that converting from mp3 or m4a/m4b to opus is a conversion between two lossy formats.
 This is fine if you just want to free up some disk space, but if you're a hard-core audiophile
 you may be dissapointed. I really can't notice a difference in quality with 'naked' ears myself.
 

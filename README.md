@@ -1,7 +1,7 @@
 ### dir2opus
 
-dir2opus converts mp3, m4a, and wav files to the free open source Opus format. Opus files are
-about 20-25% smaller than mp3s with the same relative sound quality. Your mileage may vary.
+dir2opus converts mp3, m4a, m4b, wavpack, ape, ogg/vorbis, and wav files to the free open source Opus format.
+Opus files are about 20-25% smaller than mp3s with the same relative sound quality. Your mileage may vary.
 
 ### Installation
 Install with `sudo pip2 install dir2opus` and use with `dir2opus`.
@@ -12,7 +12,7 @@ Other options for installation:
 
 ### Requirements
  - Tag preservation: mutagen (http://www.sacredchao.net/quodlibet/wiki/Development/Mutagen)
- - M4A Conversion: faad or mplayer (ALAC: alac-decoder)
+ - M4A/M4B Conversion: faad or mplayer (ALAC: alac-decoder)
  - WMA Conversion: mplayer
  - MP3 Conversion: mpg123, mpg321, lame or mplayer
  - FLAC Conversion: flac or ogg123
